@@ -1,0 +1,6 @@
+{
+  "name": "Raspi Dashboard",
+  "server": {
+    "port": 3274
+  }
+}
